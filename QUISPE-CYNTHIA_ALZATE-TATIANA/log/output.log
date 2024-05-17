@@ -1,0 +1,8 @@
+2024-05-17 12:48:03 INFO  OdontologoDAOImpl:23 - Database initialized.
+2024-05-17 12:48:03 INFO  OdontologoDAOImpl:38 - Odontologo saved: com.backend.parcial.model.Odontologo@2118cddf
+2024-05-17 12:48:03 INFO  OdontologoDAOImpl:38 - Odontologo saved: com.backend.parcial.model.Odontologo@fa36558
+2024-05-17 12:48:03 INFO  OdontologoDAOImpl:60 - Odontologos retrieved: [com.backend.parcial.model.Odontologo@2e1d27ba, com.backend.parcial.model.Odontologo@61d6015a, com.backend.parcial.model.Odontologo@2525ff7e, com.backend.parcial.model.Odontologo@524d6d96, com.backend.parcial.model.Odontologo@152aa092, com.backend.parcial.model.Odontologo@44a7bfbc, com.backend.parcial.model.Odontologo@4ef37659, com.backend.parcial.model.Odontologo@776b83cc]
+2024-05-17 13:08:08 INFO  OdontologoDAOImpl:23 - Database initialized.
+2024-05-17 13:08:08 INFO  OdontologoDAOImpl:38 - Odontologo saved: com.backend.parcial.model.Odontologo@2118cddf
+2024-05-17 13:08:08 INFO  OdontologoDAOImpl:38 - Odontologo saved: com.backend.parcial.model.Odontologo@fa36558
+2024-05-17 13:08:08 INFO  OdontologoDAOImpl:60 - Odontologos retrieved: [com.backend.parcial.model.Odontologo@2e1d27ba, com.backend.parcial.model.Odontologo@61d6015a, com.backend.parcial.model.Odontologo@2525ff7e, com.backend.parcial.model.Odontologo@524d6d96, com.backend.parcial.model.Odontologo@152aa092, com.backend.parcial.model.Odontologo@44a7bfbc, com.backend.parcial.model.Odontologo@4ef37659, com.backend.parcial.model.Odontologo@776b83cc, com.backend.parcial.model.Odontologo@37858383, com.backend.parcial.model.Odontologo@4e268090]

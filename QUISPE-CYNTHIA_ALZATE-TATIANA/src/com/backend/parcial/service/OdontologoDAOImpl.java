@@ -62,5 +62,8 @@ public class OdontologoDAOImpl implements OdontologoDAO {
             logger.error("Error retrieving odontologos", e);
         }
         return odontologos;
+
     }
 }
+
+
