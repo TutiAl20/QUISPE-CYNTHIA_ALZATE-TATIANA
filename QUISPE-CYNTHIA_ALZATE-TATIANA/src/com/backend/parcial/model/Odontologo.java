@@ -12,6 +12,16 @@ public class Odontologo {
         this.apellido = apellido;
     }
 
+    @Override
+    public boolean equals(Object obj) {
+        if(obj instanceof Odontologo) {
+            Odontologo o =  (Odontologo) obj;
+            return this.nombre.equals(o.getNombre()) && this.apellido.equals(o.getApellido());
+        } else {
+            return false;
+        }
+    }
+
     // Getters y Setters
     public int getId() {
         return id;

@@ -6,4 +6,5 @@ import java.util.List;
 public interface OdontologoDAO {
     void save(Odontologo odontologo);
     List<Odontologo> findAll();
+    void deleteAll();
 }

@@ -15,6 +15,7 @@ public class OdontologoDAOTest {
     @Before
     public void setUp() {
         odontologoDAO = new OdontologoDAOImpl();
+        odontologoDAO.deleteAll();
     }
 
     @Test

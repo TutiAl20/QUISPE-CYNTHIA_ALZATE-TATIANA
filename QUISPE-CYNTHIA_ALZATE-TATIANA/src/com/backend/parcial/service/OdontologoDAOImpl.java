@@ -64,6 +64,18 @@ public class OdontologoDAOImpl implements OdontologoDAO {
         return odontologos;
 
     }
+
+    @Override
+    public void deleteAll() {
+        String sql = "DELETE FROM odontologo";
+        try (Connection connection = DriverManager.getConnection(URL, USER, PASSWORD);
+             PreparedStatement statement = connection.prepareStatement(sql)) {
+            statement.executeUpdate();
+            logger.info("All odontologos deleted.");
+        } catch (SQLException e) {
+            logger.error("Error deleting all odontologos", e);
+        }
+    }
 }
 
 
