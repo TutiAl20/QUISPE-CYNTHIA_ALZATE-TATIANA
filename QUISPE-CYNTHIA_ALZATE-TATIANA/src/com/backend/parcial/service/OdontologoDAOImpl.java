@@ -1,7 +1,7 @@
 package com.backend.parcial.service;
 
 import com.backend.parcial.model.Odontologo;
-import org.apache.log4j.Logger;  // Asegúrate de que esta importación esté presente
+import org.apache.log4j.Logger;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
