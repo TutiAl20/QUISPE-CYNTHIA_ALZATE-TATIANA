@@ -1,7 +1,17 @@
 body {
     font-family: Arial, sans-serif;
     text-align: center;
-    margin: 50px;
+    margin: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
 }
 
 button {
@@ -9,7 +19,6 @@ button {
     font-size: 16px;
 }
 
-#dataContainer {
+.container {
     margin-top: 20px;
-    font-size: 18px;
 }
